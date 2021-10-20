@@ -1,2 +1,2 @@
 # StockMarketSimulator
-Run as MainApplication with Java 15
+Run as the MainApplication with Java 15
